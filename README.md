@@ -1,4 +1,4 @@
-## sentiment analysis by twitter API 
+## Sentimental Analysis by twitter API 
 
 This Sentimental Analysis is a program that uses the twitter API to analyze emotions.
 
@@ -6,8 +6,11 @@ This Sentimental Analysis is a program that uses the twitter API to analyze emot
 #### Dependencies
 
 ・Apache >= 2.2
+
 ・PHP >= 5.6
+
 ・mysql >= 5.6
+
 ・composer >= 1.0
 
 #### Required  Modules and API
