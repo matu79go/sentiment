@@ -1,6 +1,6 @@
 ## sentiment analysis by twitter API 
 
-sentiment analysisは、twitter API を用いて感情分析するプログラムです。
+This Sentimental Analysis is a program that uses the twitter API to analyze emotions.
 
 ### Installation
 #### Dependencies
