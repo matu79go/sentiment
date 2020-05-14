@@ -9,8 +9,6 @@ This Sentimental Analysis is a program that uses the twitter API to analyze emot
 
 ・PHP >= 5.6
 
-・mysql >= 5.6
-
 ・composer >= 1.0
 
 #### Required  Modules and API
